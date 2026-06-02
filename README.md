@@ -122,7 +122,7 @@ vvp fir_sim
 
 ## Author
 
-Omprakash S
+Sanjay SD
 
 ## License
 
